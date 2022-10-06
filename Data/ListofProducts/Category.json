@@ -1,0 +1,22 @@
+[
+    {
+        "Subcategory_id" : "1",
+        "gender_cate_name" : "Women"
+    },
+    {
+        "Subcategory_id" : "2",
+        "gender_cate_name" : "Men"
+    },
+    {
+        "Subcategory_id" : "3",
+        "gender_cate_name" : "Kids"
+    },
+    {
+        "Subcategory_id" : "4",
+        "gender_cate_name" : "Shoes"
+    },
+    {
+        "Subcategory_id" : "5",
+        "gender_cate_name" : "Beauty"
+    }   
+]

@@ -1,0 +1,297 @@
+[
+    {
+        "Shoptype_id": 1,
+        "Subcategory_id" : "1",
+        "Shoptype": "Tops & Tees",
+        "content": "Tops & Tees",
+        "shop_image": "https://i.ibb.co/qRwkkg2/tops-tees.jpg"
+    },
+    {
+        "Shoptype_id": 2,
+        "Subcategory_id" : "1",
+        "Shoptype": "Kurtas",
+        "content": "Kurtas",
+        "shop_image": "https://i.ibb.co/bghjM0J/Kurtas.jpg"
+    },
+ 	{
+        "Shoptype_id": 3,
+        "Subcategory_id" : "1",
+        "Shoptype": "Dress",
+        "content": "Dress",
+        "shop_image": "https://i.ibb.co/XsSmWNS/Dress.jpg"
+    },
+ {
+        "Shoptype_id": 4,
+        "Subcategory_id" : "1",
+        "Shoptype": "Jeans",
+        "content": "Jeans",
+        "shop_image": "https://i.ibb.co/7JtntZJ/Bottomwear.jpg"
+    },
+ 	{
+        "Shoptype_id": 5,
+        "Subcategory_id" : "1",
+        "Shoptype": "Pants & Palazzos",
+        "content": "Pants & Palazzos",
+        "shop_image": "https://i.ibb.co/5RsT13j/Sleepwear.jpg"
+    },
+ 	{
+        "Shoptype_id": 6,
+        "Subcategory_id" : "1",
+        "Shoptype": "Skirt",
+        "content": "Skirt",
+        "shop_image": "https://i.ibb.co/p2GBX62/Watch.jpg"
+    },
+ 	{
+        "Shoptype_id": 7,
+        "Subcategory_id" : "1",
+        "Shoptype": "Kurtasets",
+        "content": "Kurtasets",
+        "shop_image": "https://i.ibb.co/HzjPjV9/Joggers.jpg"
+    },
+ 	{
+        "Shoptype_id": 8,
+        "Subcategory_id" : "1",
+        "Shoptype": "Lehangas",
+        "content": "Lehangas",
+        "shop_image": "https://i.ibb.co/8DQm51b/Beauty.jpg"
+    },
+    {
+        "Shoptype_id": 10,
+        "Subcategory_id" : "2",
+        "Shoptype": "Casual Trousers",
+        "content": "Casual Trousers",
+        "shop_image": "https://i.ibb.co/8DQm51b/Beauty.jpg"
+    },
+    {
+        "Shoptype_id": 11,
+        "Subcategory_id" : "2",
+        "Shoptype": "Polos",
+        "content": "Polos",
+        "shop_image": "https://i.ibb.co/8DQm51b/Beauty.jpg"
+    },
+    {
+        "Shoptype_id": 12,
+        "Subcategory_id" : "2",
+        "Shoptype": "Formal Trousers",
+        "content": "Formal Trousers",
+        "shop_image": "https://i.ibb.co/8DQm51b/Beauty.jpg"
+    },
+    {
+        "Shoptype_id": 13,
+        "Subcategory_id" : "2",
+        "Shoptype": "Casual Shirt",
+        "content": "Casual Shirt",
+        "shop_image": "https://i.ibb.co/8DQm51b/Beauty.jpg"
+    },
+    {
+        "Shoptype_id": 14,
+        "Subcategory_id" : "2",
+        "Shoptype": "Formal Shirt",
+        "content": "Formal Shirt",
+        "shop_image": "https://i.ibb.co/8DQm51b/Beauty.jpg"
+    },
+    {
+        "Shoptype_id": 15,
+        "Subcategory_id" : "2",
+        "Shoptype": "Jeans",
+        "content": "Jeans",
+        "shop_image": "https://i.ibb.co/8DQm51b/Beauty.jpg"
+    },
+    {
+        "Shoptype_id": 16,
+        "Subcategory_id" : "2",
+        "Shoptype": "Jackets",
+        "content": "Jackets",
+        "shop_image": "https://i.ibb.co/8DQm51b/Beauty.jpg"
+    },
+    {
+        "Shoptype_id": 17,
+        "Subcategory_id" : "3",
+        "Shoptype": "GirlsTops",
+        "content": "GirlsTops",
+        "shop_image": "https://i.ibb.co/8DQm51b/Beauty.jpg"
+    },
+    {
+        "Shoptype_id": 18,
+        "Subcategory_id" : "3",
+        "Shoptype": "GirlsEthnic",
+        "content": "GirlsEthnic",
+        "shop_image": "https://i.ibb.co/8DQm51b/Beauty.jpg"
+    },
+    {
+        "Shoptype_id": 19,
+        "Subcategory_id" : "3",
+        "Shoptype": "GirlsPants",
+        "content": "GirlsPants",
+        "shop_image": "https://i.ibb.co/8DQm51b/Beauty.jpg"
+    },
+
+    {
+        "Shoptype_id": 20,
+        "Subcategory_id" : "3",
+        "Shoptype": "BoysTop",
+        "content": "BoysTop",
+        "shop_image": "https://i.ibb.co/8DQm51b/Beauty.jpg"
+    },
+    {
+        "Shoptype_id": 21,
+        "Subcategory_id" : "3",
+        "Shoptype": "BoysEthnic",
+        "content": "BoysEthnic",
+        "shop_image": "https://i.ibb.co/8DQm51b/Beauty.jpg"
+    },
+    {
+        "Shoptype_id": 22,
+        "Subcategory_id" : "3",
+        "Shoptype": "BoysPants",
+        "content": "BoysPants",
+        "shop_image": "https://i.ibb.co/8DQm51b/Beauty.jpg"
+    },
+    {
+        "Shoptype_id": 23,
+        "Subcategory_id" : "4",
+        "Shoptype": "BoysShoes",
+        "content": "BoysShoes",
+        "shop_image": "https://i.ibb.co/8DQm51b/Beauty.jpg"
+    },
+    {
+        "Shoptype_id": 24,
+        "Subcategory_id" : "4",
+        "Shoptype": "BoysSandals",
+        "content": "BoysSandals",
+        "shop_image": "https://i.ibb.co/8DQm51b/Beauty.jpg"
+    },
+    {
+        "Shoptype_id": 25,
+        "Subcategory_id" : "4",
+        "Shoptype": "BoysSlippers",
+        "content": "BoysSlippers",
+        "shop_image": "https://i.ibb.co/8DQm51b/Beauty.jpg"
+    },
+    {
+        "Shoptype_id": 26,
+        "Subcategory_id" : "4",
+        "Shoptype": "GirlsShoes",
+        "content": "GirlsShoes",
+        "shop_image": "https://i.ibb.co/8DQm51b/Beauty.jpg"
+    },
+    {
+        "Shoptype_id": 27,
+        "Subcategory_id" : "4",
+        "Shoptype": "GirlsSandals",
+        "content": "GirlsSandals",
+        "shop_image": "https://i.ibb.co/8DQm51b/Beauty.jpg"
+    },
+    {
+        "Shoptype_id": 28,
+        "Subcategory_id" : "4",
+        "Shoptype": "GirlsSlippers",
+        "content": "GirlsSlippers",
+        "shop_image": "https://i.ibb.co/8DQm51b/Beauty.jpg"
+    },
+    {
+        "Shoptype_id": 29,
+        "Subcategory_id" : "4",
+        "Shoptype": "MenLoafers&Moccasins",
+        "content": "MenLoafers&Moccasins",
+        "shop_image": "https://i.ibb.co/8DQm51b/Beauty.jpg"
+    },
+    {
+        "Shoptype_id": 30,
+        "Subcategory_id" : "4",
+        "Shoptype": "MenSportsshoes",
+        "content": "MenSportsshoes",
+        "shop_image": "https://i.ibb.co/8DQm51b/Beauty.jpg"
+    },
+    {
+        "Shoptype_id": 31,
+        "Subcategory_id" : "4",
+        "Shoptype": "MenSlippers",
+        "content": "MenSlippers",
+        "shop_image": "https://i.ibb.co/8DQm51b/Beauty.jpg"
+    },
+    {
+        "Shoptype_id": 32,
+        "Subcategory_id" : "4",
+        "Shoptype": "WomenBellerina",
+        "content": "WomenBellerina",
+        "shop_image": "https://i.ibb.co/8DQm51b/Beauty.jpg"
+    },
+    {
+        "Shoptype_id": 33,
+        "Subcategory_id" : "4",
+        "Shoptype": "WomenFlip",
+        "content": "WomenFlip",
+        "shop_image": "https://i.ibb.co/8DQm51b/Beauty.jpg"
+    },
+    {
+        "Shoptype_id": 34,
+        "Subcategory_id" : "4",
+        "Shoptype": "WomenHeels",
+        "content": "WomenHeels",
+        "shop_image": "https://i.ibb.co/8DQm51b/Beauty.jpg"
+    },
+    {
+        "Shoptype_id": 35,
+        "Subcategory_id" : "5",
+        "Shoptype": "Lipstick",
+        "content": "Lipstick",
+        "shop_image": "https://i.ibb.co/8DQm51b/Beauty.jpg"
+    },
+    {
+        "Shoptype_id": 36,
+        "Subcategory_id" : "5",
+        "Shoptype": "LipBalm",
+        "content": "LipBalm",
+        "shop_image": "https://i.ibb.co/8DQm51b/Beauty.jpg"
+    },
+    {
+        "Shoptype_id": 37,
+        "Subcategory_id" : "5",
+        "Shoptype": "LipCrayon",
+        "content": "LipCrayon",
+        "shop_image": "https://i.ibb.co/8DQm51b/Beauty.jpg"
+    },
+    {
+        "Shoptype_id": 38,
+        "Subcategory_id" : "5",
+        "Shoptype": "Primer",
+        "content": "Primer",
+        "shop_image": "https://i.ibb.co/8DQm51b/Beauty.jpg"
+    },
+    {
+        "Shoptype_id": 39,
+        "Subcategory_id" : "5",
+        "Shoptype": "Foundation",
+        "content": "Foundation",
+        "shop_image": "https://i.ibb.co/8DQm51b/Beauty.jpg"
+    },
+    {
+        "Shoptype_id": 40,
+        "Subcategory_id" : "5",
+        "Shoptype": "Compact",
+        "content": "Compact",
+        "shop_image": "https://i.ibb.co/8DQm51b/Beauty.jpg"
+    },
+    {
+        "Shoptype_id": 41,
+        "Subcategory_id" : "5",
+        "Shoptype": "Mascara",
+        "content": "Mascara",
+        "shop_image": "https://i.ibb.co/8DQm51b/Beauty.jpg"
+    },
+    {
+        "Shoptype_id": 42,
+        "Subcategory_id" : "5",
+        "Shoptype": "Eyeliner",
+        "content": "Eyeliner",
+        "shop_image": "https://i.ibb.co/8DQm51b/Beauty.jpg"
+    },
+    {
+        "Shoptype_id": 43,
+        "Subcategory_id" : "5",
+        "Shoptype": "Eyeshadow",
+        "content": "Eyeshadow",
+        "shop_image": "https://i.ibb.co/8DQm51b/Beauty.jpg"
+    }
+]

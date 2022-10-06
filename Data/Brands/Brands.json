@@ -1,0 +1,123 @@
+[
+    {
+        "Brands_id": 1,
+        "Brands_name": "Ginger",
+        "content": "Ginger",
+        "Brand_image": "https://i.ibb.co/kgVGg76/Ginger.jpg"
+    },
+    {
+        "Brands_id": 2,
+        "Brands_name": "Melange",
+        "content": "Melange",
+        "Brand_image": "https://i.ibb.co/PmvjJDq/Melange.jpg"
+    },
+    {
+        "Brands_id": 3,
+        "Brands_name": "BIBA",
+        "content": "BIBA",
+        "Brand_image": "https://i.ibb.co/M6MVgFh/BIBA.jpg"
+    },
+    {
+        "Brands_id": 4,
+        "Brands_name": "AND",
+        "content": "AND",
+        "Brand_image": "https://i.ibb.co/vB2TD7d/AND.jpg"
+    },
+    {
+        "Brands_id": 5,
+        "Brands_name": "ONLY",
+        "content": "ONLY",
+        "Brand_image": "https://i.ibb.co/Y2rtcnD/Only.jpg"
+    },
+    {
+        "Brands_id": 6,
+        "Brands_name": "Allen Solly",
+        "content": "Allen Solly",
+        "Brand_image": "https://i.ibb.co/1KFr3tG/Allen.jpg"
+    },
+    {
+        "Brands_id": 7,
+        "Brands_name": "Aurelia",
+        "content": "Aurelia",
+        "Brand_image": "https://i.ibb.co/X2dnkdn/Aurelia.jpg"
+    },
+ 	  {
+        "Brands_id": 8,
+        "Brands_name": "Forever",
+        "content": "Forever",
+        "Brand_image": "https://i.ibb.co/qCtt5L7/Forever.jpg"
+    },
+	  {
+        "Brands_id": 9,
+        "Brands_name": "US Polo",
+	      "content": "US Polo",
+        "Brand_image": "https://i.ibb.co/pzzcmqW/Polo.jpg"
+    },
+    {
+        "Brands_id": 10,
+        "Brands_name": "Levis",
+	      "content": "Levis",
+        "Brand_image": "https://i.ibb.co/cwRjrQX/Levis.jpg"
+    },
+	  { 
+        "Brands_id": 11,
+        "Brands_name": "Kappa",
+	      "content": "Kappa",
+        "Brand_image": "https://i.ibb.co/YDsp6sq/Kappa.jpg"
+    },
+	  {
+        "Brands_id": 12,
+        "Brands_name": "CODE",
+	      "content": "CODE",
+        "Brand_image": "https://i.ibb.co/V3pKFsr/Code.jpg"
+    },
+	  {
+        "Brands_id": 13,
+        "Brands_name": "Jack & Jones",
+	      "content": "Jack & Jones",
+        "Brand_image": "https://i.ibb.co/0h8zLmP/Jack.jpg"
+    },
+	  {
+        "Brands_id": 14,
+        "Brands_name": "Celio",
+	      "content": "Celio",
+        "Brand_image": "https://i.ibb.co/LPSB4rN/Celio.jpg"
+    },
+	  {
+        "Brands_id": 15,
+        "Brands_name": "Roadstar",
+	      "content": "Roadstar",
+        "Brand_image": "https://i.ibb.co/yF91vht/roadstar.jpg"
+    },
+	  {
+        "Brands_id": 16,
+        "Brands_name": "Flying Machine",
+	      "content": "Flying Machine",
+        "Brand_image": "https://i.ibb.co/6mn2cw1/Flying.jpg"
+    },
+    {
+      "Brands_id": 17,
+      "Brands_name": "Lee Cooper",
+      "content": "Lee Cooper",
+      "Brand_image": "https://i.ibb.co/FJhGMVB/Lee.jpg"
+    },
+    {
+    "Brands_id": 18,
+    "Brands_name": "Pepe Jeans",
+    "content": "Pepe Jeans",
+    "Brand_image": "https://i.ibb.co/ySvXNNp/pepekid.jpg"
+    },
+    {
+      "Brands_id": 19,
+      "Brands_name": "Gini & Jony",
+      "content": "Gini & Jony",
+      "Brand_image": "https://i.ibb.co/37tmT9D/Gini.jpg"
+    },
+    {
+      "Brands_id": 20,
+      "Brands_name": "Mini Klub",
+      "content": "Mini Klub",
+      "Brand_image": "https://i.ibb.co/0qvDJy7/Mini.jpg"
+    }
+
+]
