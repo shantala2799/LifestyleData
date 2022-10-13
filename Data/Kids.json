@@ -11,7 +11,7 @@
     "old_price": 1199,
     "discount": 10,
     "delivery_type": "Free delivery",
-    "hidden_stars": 3.5
+    "hidden_stars": 1.5
   },
   {
     "item_id": 2,
@@ -25,7 +25,7 @@
     "old_price": 1299,
     "discount": 30,
     "delivery_type": "Free delivery",
-    "hidden_stars": 3.5
+    "hidden_stars": 1.6
   },
   {
     "item_id": 3,
@@ -39,7 +39,7 @@
     "old_price": 799,
     "discount": 10,
     "delivery_type": "Free delivery",
-    "hidden_stars": 3.5
+    "hidden_stars": 1.7
   },
   {
     "item_id": 4,
@@ -53,7 +53,7 @@
     "old_price": 999,
     "discount": 30,
     "delivery_type": "Free delivery",
-    "hidden_stars": 3.5
+    "hidden_stars": 1.8
   },
   {
     "item_id": 5,
@@ -67,7 +67,7 @@
     "old_price": 599,
     "discount": 10,
     "delivery_type": "Free delivery",
-    "hidden_stars": 3.5
+    "hidden_stars": 1.9
   },
   {
     "item_id": 6,
@@ -81,7 +81,7 @@
     "old_price": 899,
     "discount": 10,
     "delivery_type": "Free delivery",
-    "hidden_stars": 3.5
+    "hidden_stars": 2.1
   },
   {
     "item_id": 7,
@@ -95,7 +95,7 @@
     "old_price": 1199,
     "discount": 10,
     "delivery_type": "Free delivery",
-    "hidden_stars": 3.5
+    "hidden_stars": 2.2
   },
   {
     "item_id": 8,
@@ -109,7 +109,7 @@
     "old_price": 999,
     "discount": 10,
     "delivery_type": "Free delivery",
-    "hidden_stars": 3.5
+    "hidden_stars": 2.3
   },
   {
     "item_id": 9,
@@ -123,7 +123,7 @@
     "old_price": 1199,
     "discount": 10,
     "delivery_type": "Free delivery",
-    "hidden_stars": 3.5
+    "hidden_stars": 2.4
   },
   {
     "item_id": 10,
@@ -137,7 +137,7 @@
     "old_price": 999,
     "discount": 10,
     "delivery_type": "Free delivery",
-    "hidden_stars": 3.5
+    "hidden_stars": 2.5
   },
   {
     "item_id": 11,
@@ -151,7 +151,7 @@
     "old_price": 549,
     "discount": 30,
     "delivery_type": "Free delivery",
-    "hidden_stars": 3.5
+    "hidden_stars": 2.6
   },
   {
     "item_id": 12,
@@ -165,7 +165,7 @@
     "old_price": 599,
     "discount": 30,
     "delivery_type": "Free delivery",
-    "hidden_stars": 3.5
+    "hidden_stars": 2.7
   },
   {
     "item_id": 13,
@@ -179,7 +179,7 @@
     "old_price": 549,
     "discount": 30,
     "delivery_type": "Free delivery",
-    "hidden_stars": 3.5
+    "hidden_stars": 2.8
   },
   {
     "item_id": 14,
@@ -193,7 +193,7 @@
     "old_price": 549,
     "discount": 30,
     "delivery_type": "Free delivery",
-    "hidden_stars": 3.5
+    "hidden_stars": 2.9
   },
   {
     "item_id": 15,
@@ -207,7 +207,7 @@
     "old_price": 699,
     "discount": 30,
     "delivery_type": "Free delivery",
-    "hidden_stars": 3.5
+    "hidden_stars": 3.0
   },
   {
     "item_id": 16,
@@ -221,7 +221,7 @@
     "old_price": 699,
     "discount": 30,
     "delivery_type": "Free delivery",
-    "hidden_stars": 3.5
+    "hidden_stars": 3.1
   },
   {
     "item_id": 17,
@@ -235,7 +235,7 @@
     "old_price": 699,
     "discount": 30,
     "delivery_type": "Free delivery",
-    "hidden_stars": 3.5
+    "hidden_stars": 3.2
   },
   {
     "item_id": 18,
@@ -249,7 +249,7 @@
     "old_price": 349,
     "discount": 30,
     "delivery_type": "Free delivery",
-    "hidden_stars": 3.5
+    "hidden_stars": 3.3
   },
   {
     "item_id": 19,
@@ -263,7 +263,7 @@
     "old_price": 599,
     "discount": 30,
     "delivery_type": "Free delivery",
-    "hidden_stars": 3.5
+    "hidden_stars": 3.4
   },
   {
     "item_id": 20,
@@ -291,7 +291,7 @@
     "old_price": 1499,
     "discount": 30,
     "delivery_type": "Free delivery",
-    "hidden_stars": 3.5
+    "hidden_stars": 3.6
   },
   {
     "item_id": 22,
@@ -305,7 +305,7 @@
     "old_price": 1699,
     "discount": 20,
     "delivery_type": "Free delivery",
-    "hidden_stars": 3.5
+    "hidden_stars": 3.7
   },
   {
     "item_id": 23,
@@ -319,7 +319,7 @@
     "old_price": 1199,
     "discount": 30,
     "delivery_type": "Free delivery",
-    "hidden_stars": 3.5
+    "hidden_stars": 3.8
   },
   {
     "item_id": 24,
@@ -333,7 +333,7 @@
     "old_price": 1299,
     "discount": 40,
     "delivery_type": "Free delivery",
-    "hidden_stars": 3.5
+    "hidden_stars": 3.9
   },
   {
     "item_id": 25,
@@ -347,7 +347,7 @@
     "old_price": 1199,
     "discount": 30,
     "delivery_type": "Free delivery",
-    "hidden_stars": 3.5
+    "hidden_stars": 4.0
   },
   {
     "item_id": 26,
@@ -361,7 +361,7 @@
     "old_price": 1199,
     "discount": 30,
     "delivery_type": "Free delivery",
-    "hidden_stars": 3.5
+    "hidden_stars": 4.1
   },
   {
     "item_id": 27,
@@ -375,7 +375,7 @@
     "old_price": 899,
     "discount": 10,
     "delivery_type": "Free delivery",
-    "hidden_stars": 3.5
+    "hidden_stars": 4.5
   },
   {
     "item_id": 28,
@@ -389,7 +389,7 @@
     "old_price": 1499,
     "discount": 30,
     "delivery_type": "Free delivery",
-    "hidden_stars": 3.5
+    "hidden_stars": 4.2
   },
   {
     "item_id": 29,
@@ -403,7 +403,7 @@
     "old_price": 1499,
     "discount": 30,
     "delivery_type": "Free delivery",
-    "hidden_stars": 3.5
+    "hidden_stars": 4.3
   },
   {
     "item_id": 30,
@@ -417,7 +417,7 @@
     "old_price": 1299,
     "discount": 50,
     "delivery_type": "Free delivery",
-    "hidden_stars": 3.5
+    "hidden_stars": 4.4
   },
   {
     "item_id": 31,
@@ -431,7 +431,7 @@
     "old_price": 699,
     "discount": 30,
     "delivery_type": "Free delivery",
-    "hidden_stars": 3.5
+    "hidden_stars": 4.5
   },
   {
     "item_id": 32,
@@ -445,7 +445,7 @@
     "old_price": 4599,
     "discount": 40,
     "delivery_type": "Free delivery",
-    "hidden_stars": 3.5
+    "hidden_stars": 4.5
   },
   {
     "item_id": 33,
@@ -459,7 +459,7 @@
     "old_price": 1499,
     "discount": 30,
     "delivery_type": "Free delivery",
-    "hidden_stars": 3.5
+    "hidden_stars": 4.6
   },
   {
     "item_id": 34,
@@ -473,7 +473,7 @@
     "old_price": 1299,
     "discount": 50,
     "delivery_type": "Free delivery",
-    "hidden_stars": 3.5
+    "hidden_stars": 4.7
   },
   {
     "item_id": 35,
@@ -487,7 +487,7 @@
     "old_price": 1695,
     "discount": 30,
     "delivery_type": "Free delivery",
-    "hidden_stars": 3.5
+    "hidden_stars": 4.0
   },
   {
     "item_id": 36,
@@ -501,7 +501,7 @@
     "old_price": 2499,
     "discount": 20,
     "delivery_type": "Free delivery",
-    "hidden_stars": 3.5
+    "hidden_stars": 4.9
   },
 
   {
@@ -516,7 +516,7 @@
     "old_price": 3299,
     "discount": 50,
     "delivery_type": "Free delivery",
-    "hidden_stars": 3.5
+    "hidden_stars": 5.0
   },
   {
     "item_id": 38,
@@ -544,7 +544,7 @@
     "old_price": 1499,
     "discount": 30,
     "delivery_type": "Free delivery",
-    "hidden_stars": 3.5
+    "hidden_stars": 3.6
   },
   {
     "item_id": 40,
@@ -558,7 +558,7 @@
     "old_price": 1499,
     "discount": 50,
     "delivery_type": "Free delivery",
-    "hidden_stars": 3.5
+    "hidden_stars": 3.7
   },
   {
     "item_id": 41,
@@ -572,7 +572,7 @@
     "old_price": 2999,
     "discount": 50,
     "delivery_type": "Free delivery",
-    "hidden_stars": 3.5
+    "hidden_stars": 3.8
   },
   {
     "item_id": 42,
@@ -586,7 +586,7 @@
     "old_price": 3499,
     "discount": 50,
     "delivery_type": "Free delivery",
-    "hidden_stars": 3.5
+    "hidden_stars": 3.9
   },
   {
     "item_id": 43,
@@ -600,7 +600,7 @@
     "old_price": 1799,
     "discount": 40,
     "delivery_type": "Free delivery",
-    "hidden_stars": 3.5
+    "hidden_stars": 4.0
   },
   {
     "item_id": 44,
@@ -614,7 +614,7 @@
     "old_price": 2599,
     "discount": 50,
     "delivery_type": "Free delivery",
-    "hidden_stars": 3.5
+    "hidden_stars": 2.5
   },
   {
     "item_id": 45,
@@ -628,7 +628,7 @@
     "old_price": 2299,
     "discount": 40,
     "delivery_type": "Free delivery",
-    "hidden_stars": 3.5
+    "hidden_stars": 2.2
   },
   {
     "item_id": 46,
@@ -642,7 +642,7 @@
     "old_price": 4599,
     "discount": 40,
     "delivery_type": "Free delivery",
-    "hidden_stars": 3.5
+    "hidden_stars": 2.8
   },
   {
     "item_id": 47,
@@ -656,7 +656,7 @@
     "old_price": 2999,
     "discount": 50,
     "delivery_type": "Free delivery",
-    "hidden_stars": 3.5
+    "hidden_stars": 1.8
   },
   {
     "item_id": 48,
@@ -670,7 +670,7 @@
     "old_price": 3299,
     "discount": 50,
     "delivery_type": "Free delivery",
-    "hidden_stars": 3.5
+    "hidden_stars": 1.4
   },
   {
     "item_id": 49,
@@ -684,7 +684,7 @@
     "old_price": 2699,
     "discount": 50,
     "delivery_type": "Free delivery",
-    "hidden_stars": 3.5
+    "hidden_stars": 1.5
   },
   {
     "item_id": 50,
@@ -698,7 +698,7 @@
     "old_price": 1499,
     "discount": 10,
     "delivery_type": "Free delivery",
-    "hidden_stars": 3.5
+    "hidden_stars": 1.2
   },
     {
       "item_id": 51,
@@ -712,7 +712,7 @@
       "old_price": 1499,
       "discount": 30,
       "delivery_type": "Free delivery",
-      "hidden_stars": 3.5
+      "hidden_stars": 1.6
     },
     {
       "item_id": 52,
@@ -726,7 +726,7 @@
       "old_price": 1699,
       "discount": 20,
       "delivery_type": "Free delivery",
-      "hidden_stars": 3.5
+      "hidden_stars": 1.9
     },
     {
       "item_id": 53,
@@ -754,7 +754,7 @@
       "old_price": 1299,
       "discount": 40,
       "delivery_type": "Free delivery",
-      "hidden_stars": 3.5
+      "hidden_stars": 2.0
     },
     {
       "item_id": 55,
@@ -768,7 +768,7 @@
       "old_price": 1199,
       "discount": 30,
       "delivery_type": "Free delivery",
-      "hidden_stars": 3.5
+      "hidden_stars": 2.5
     },
     {
       "item_id": 56,
@@ -782,7 +782,7 @@
       "old_price": 1199,
       "discount": 30,
       "delivery_type": "Free delivery",
-      "hidden_stars": 3.5
+      "hidden_stars": 2.7
     },
     {
       "item_id": 57,
@@ -810,7 +810,7 @@
       "old_price": 1499,
       "discount": 30,
       "delivery_type": "Free delivery",
-      "hidden_stars": 3.5
+      "hidden_stars": 3.6
     },
     {
       "item_id": 59,
@@ -824,7 +824,7 @@
       "old_price": 1499,
       "discount": 30,
       "delivery_type": "Free delivery",
-      "hidden_stars": 3.5
+      "hidden_stars": 3.9
     },
     {
       "item_id": 60,
@@ -838,7 +838,7 @@
       "old_price": 1299,
       "discount": 50,
       "delivery_type": "Free delivery",
-      "hidden_stars": 3.5
+      "hidden_stars": 4.5
     },
     {
       "item_id": 61,
@@ -852,7 +852,7 @@
       "old_price": 699,
       "discount": 30,
       "delivery_type": "Free delivery",
-      "hidden_stars": 3.5
+      "hidden_stars": 4.7
     },
     {
       "item_id": 62,
@@ -866,7 +866,7 @@
       "old_price": 1299,
       "discount": 30,
       "delivery_type": "Free delivery",
-      "hidden_stars": 3.5
+      "hidden_stars": 5
     },
     {
       "item_id": 63,
@@ -880,7 +880,7 @@
       "old_price": 949,
       "discount": 45,
       "delivery_type": "Free delivery",
-      "hidden_stars": 3.5
+      "hidden_stars": 5
     },
     {
       "item_id": 64,
@@ -894,7 +894,7 @@
       "old_price": 549,
       "discount": 30,
       "delivery_type": "Free delivery",
-      "hidden_stars": 3.5
+      "hidden_stars": 4.5
     },
     {
       "item_id": 65,
@@ -936,7 +936,7 @@
       "old_price": 499,
       "discount": 40,
       "delivery_type": "Free delivery",
-      "hidden_stars": 3.5
+      "hidden_stars": 2.5
     },
     {
       "item_id": 68,
@@ -950,7 +950,7 @@
       "old_price": 599,
       "discount": 58,
       "delivery_type": "Free delivery",
-      "hidden_stars": 3.5
+      "hidden_stars": 1.5
     },
     {
       "item_id": 69,
@@ -964,7 +964,7 @@
       "old_price": 499,
       "discount": 30,
       "delivery_type": "Free delivery",
-      "hidden_stars": 3.5
+      "hidden_stars": 2.3
     },
     {
       "item_id": 70,
@@ -978,7 +978,7 @@
       "old_price": 699,
       "discount": 20,
       "delivery_type": "Free delivery",
-      "hidden_stars": 3.5
+      "hidden_stars": 1.7
     },
     {
       "item_id": 71,
@@ -992,7 +992,7 @@
       "old_price": 549,
       "discount": 30,
       "delivery_type": "Free delivery",
-      "hidden_stars": 3.5
+      "hidden_stars": 1.8
     },
     {
       "item_id": 72,
@@ -1006,7 +1006,7 @@
       "old_price": 599,
       "discount": 30,
       "delivery_type": "Free delivery",
-      "hidden_stars": 3.5
+      "hidden_stars": 1.9
     },
     {
       "item_id": 73,
@@ -1020,7 +1020,7 @@
       "old_price": 549,
       "discount": 30,
       "delivery_type": "Free delivery",
-      "hidden_stars": 3.5
+      "hidden_stars": 2.0
     },
     {
       "item_id": 74,
@@ -1034,7 +1034,7 @@
       "old_price": 549,
       "discount": 30,
       "delivery_type": "Free delivery",
-      "hidden_stars": 3.5
+      "hidden_stars": 2.1
     },
     {
       "item_id": 75,
@@ -1048,7 +1048,7 @@
       "old_price": 699,
       "discount": 30,
       "delivery_type": "Free delivery",
-      "hidden_stars": 3.5
+      "hidden_stars": 2.2
     },
     {
       "item_id": 76,
@@ -1062,7 +1062,7 @@
       "old_price": 699,
       "discount": 30,
       "delivery_type": "Free delivery",
-      "hidden_stars": 3.5
+      "hidden_stars": 2.3
     },
     {
       "item_id": 77,
@@ -1076,7 +1076,7 @@
       "old_price": 699,
       "discount": 30,
       "delivery_type": "Free delivery",
-      "hidden_stars": 3.5
+      "hidden_stars": 2.4
     },
     {
       "item_id": 78,
@@ -1090,7 +1090,7 @@
       "old_price": 349,
       "discount": 30,
       "delivery_type": "Free delivery",
-      "hidden_stars": 3.5
+      "hidden_stars": 2.5
     },
     {
       "item_id": 79,
@@ -1104,7 +1104,7 @@
       "old_price": 599,
       "discount": 30,
       "delivery_type": "Free delivery",
-      "hidden_stars": 3.5
+      "hidden_stars": 2.6
     },
     {
       "item_id": 80,
@@ -1118,7 +1118,7 @@
       "old_price": 699,
       "discount": 30,
       "delivery_type": "Free delivery",
-      "hidden_stars": 3.5
+      "hidden_stars": 2.7
     },
     {
       "item_id": 81,
@@ -1132,7 +1132,7 @@
       "old_price": 699,
       "discount": 30,
       "delivery_type": "Free delivery",
-      "hidden_stars": 3.5
+      "hidden_stars": 2.8
     },
     {
       "item_id": 82,
@@ -1146,7 +1146,7 @@
       "old_price": 699,
       "discount": 30,
       "delivery_type": "Free delivery",
-      "hidden_stars": 3.5
+      "hidden_stars": 3.0
     },
     {
       "item_id": 83,
@@ -1160,7 +1160,7 @@
       "old_price": 799,
       "discount": 30,
       "delivery_type": "Free delivery",
-      "hidden_stars": 3.5
+      "hidden_stars": 3.1
     },
     {
       "item_id": 84,
@@ -1174,7 +1174,7 @@
       "old_price": 599,
       "discount": 30,
       "delivery_type": "Free delivery",
-      "hidden_stars": 3.5
+      "hidden_stars": 3.2
     },
     {
       "item_id": 85,
@@ -1188,7 +1188,7 @@
       "old_price": 899,
       "discount": 30,
       "delivery_type": "Free delivery",
-      "hidden_stars": 3.5
+      "hidden_stars": 3.3
     },
     {
       "item_id": 86,
@@ -1202,7 +1202,7 @@
       "old_price": 699,
       "discount": 30,
       "delivery_type": "Free delivery",
-      "hidden_stars": 3.5
+      "hidden_stars": 3.4
     },
   
     {
@@ -1231,7 +1231,7 @@
       "old_price": 699,
       "discount": 30,
       "delivery_type": "Free delivery",
-      "hidden_stars": 3.5
+      "hidden_stars": 3.6
     },
     {
       "item_id": 89,
@@ -1245,7 +1245,7 @@
       "old_price": 699,
       "discount": 30,
       "delivery_type": "Free delivery",
-      "hidden_stars": 3.5
+      "hidden_stars": 3.7
     },
     {
       "item_id": 90,
@@ -1259,7 +1259,7 @@
       "old_price": 699,
       "discount": 30,
       "delivery_type": "Free delivery",
-      "hidden_stars": 3.5
+      "hidden_stars": 3.8
     },
     {
       "item_id": 91,
@@ -1273,7 +1273,7 @@
       "old_price": 1299,
       "discount": 30,
       "delivery_type": "Free delivery",
-      "hidden_stars": 3.5
+      "hidden_stars": 3.9
     },
     {
       "item_id": 92,
@@ -1287,7 +1287,7 @@
       "old_price": 1199,
       "discount": 30,
       "delivery_type": "Free delivery",
-      "hidden_stars": 3.5
+      "hidden_stars": 4.0
     },
     {
       "item_id": 93,
@@ -1301,7 +1301,7 @@
       "old_price": 999,
       "discount": 30,
       "delivery_type": "Free delivery",
-      "hidden_stars": 3.5
+      "hidden_stars": 4.1
     },
     {
       "item_id": 94,
@@ -1315,7 +1315,7 @@
       "old_price": 1499,
       "discount": 30,
       "delivery_type": "Free delivery",
-      "hidden_stars": 3.5
+      "hidden_stars": 4.2
     },
     {
       "item_id": 95,
@@ -1329,7 +1329,7 @@
       "old_price": 899,
       "discount": 30,
       "delivery_type": "Free delivery",
-      "hidden_stars": 3.5
+      "hidden_stars": 4.3
     },
     {
       "item_id": 96,
@@ -1343,7 +1343,7 @@
       "old_price": 999,
       "discount": 30,
       "delivery_type": "Free delivery",
-      "hidden_stars": 3.5
+      "hidden_stars": 4.4
     },
     {
       "item_id": 97,
@@ -1357,7 +1357,7 @@
       "old_price": 1799,
       "discount": 30,
       "delivery_type": "Free delivery",
-      "hidden_stars": 3.5
+      "hidden_stars": 4.5
     },
     {
       "item_id": 98,
@@ -1371,7 +1371,7 @@
       "old_price": 1499,
       "discount": 50,
       "delivery_type": "Free delivery",
-      "hidden_stars": 3.5
+      "hidden_stars": 4.6
     },
     {
       "item_id": 99,
@@ -1385,7 +1385,7 @@
       "old_price": 699,
       "discount": 30,
       "delivery_type": "Free delivery",
-      "hidden_stars": 3.5
+      "hidden_stars": 4.7
     },
     {
       "item_id": 100,
@@ -1399,7 +1399,7 @@
       "old_price": 699,
       "discount": 30,
       "delivery_type": "Free delivery",
-      "hidden_stars": 3.5
+      "hidden_stars": 4.8
     },
         {
             "item_id":101,
@@ -1413,7 +1413,7 @@
             "old_price":1899,
             "discount":45,
             "delivery_type":"Free delivery",
-            "hidden_stars":3.5
+            "hidden_stars":4.9
         },
         {
             "item_id":102,
@@ -1427,7 +1427,7 @@
             "old_price":899,
             "discount":30,
             "delivery_type":"Free delivery",
-            "hidden_stars":3.5
+            "hidden_stars":5
         },
         {
             "item_id":103,
@@ -1455,7 +1455,7 @@
             "old_price":1699,
             "discount":30,
             "delivery_type":"Free delivery",
-            "hidden_stars":3.5
+            "hidden_stars":3.6
         },
         {
             "item_id":105,
@@ -1469,7 +1469,7 @@
             "old_price":1399,
             "discount":50,
             "delivery_type":"Free delivery",
-            "hidden_stars":3.5
+            "hidden_stars":3.7
         },
         {
             "item_id":106,
@@ -1483,7 +1483,7 @@
             "old_price":1499,
             "discount":50,
             "delivery_type":"Free delivery",
-            "hidden_stars":3.5
+            "hidden_stars":3.8
         },
         {
             "item_id":107,
@@ -1497,7 +1497,7 @@
             "old_price":899,
             "discount":10,
             "delivery_type":"Free delivery",
-            "hidden_stars":3.5
+            "hidden_stars":3.9
         },
         {
             "item_id":108,
@@ -1511,7 +1511,7 @@
             "old_price":1499,
             "discount":30,
             "delivery_type":"Free delivery",
-            "hidden_stars":3.5
+            "hidden_stars":2.5
         },
         {
             "item_id":109,
@@ -1525,7 +1525,7 @@
             "old_price":1699,
             "discount":10,
             "delivery_type":"Free delivery",
-            "hidden_stars":3.5
+            "hidden_stars":2.6
         },
         {
             "item_id":110,
@@ -1539,7 +1539,7 @@
             "old_price":1799,
             "discount":5,
             "delivery_type":"Free delivery",
-            "hidden_stars":3.5
+            "hidden_stars":2.7
         },
         {
             "item_id":111,
@@ -1553,7 +1553,7 @@
             "old_price":1799,
             "discount":5,
             "delivery_type":"Free delivery",
-            "hidden_stars":3.5
+            "hidden_stars":2.8
         },
         {
             "item_id":112,
@@ -1567,7 +1567,7 @@
             "old_price":1799,
             "discount":5,
             "delivery_type":"Free delivery",
-            "hidden_stars":3.5
+            "hidden_stars":2.9
         },
         {
             "item_id":113,
@@ -1581,7 +1581,7 @@
             "old_price":1499,
             "discount":10,
             "delivery_type":"Free delivery",
-            "hidden_stars":3.5
+            "hidden_stars":3.0
         },
         {
             "item_id":114,
@@ -1595,7 +1595,7 @@
             "old_price":1999,
             "discount":5,
             "delivery_type":"Free delivery",
-            "hidden_stars":3.5
+            "hidden_stars":3.1
         },
         {
             "item_id":115,
@@ -1609,7 +1609,7 @@
             "old_price":799,
             "discount":30,
             "delivery_type":"Free delivery",
-            "hidden_stars":3.5
+            "hidden_stars":3.2
         },
         {
             "item_id":116,
@@ -1623,7 +1623,7 @@
             "old_price":799,
             "discount":40,
             "delivery_type":"Free delivery",
-            "hidden_stars":3.5
+            "hidden_stars":3.3
         },
         {
             "item_id":117,
@@ -1637,7 +1637,7 @@
             "old_price":799,
             "discount":30,
             "delivery_type":"Free delivery",
-            "hidden_stars":3.5
+            "hidden_stars":3.4
         },
         {
             "item_id":118,
@@ -1665,7 +1665,7 @@
             "old_price":1799,
             "discount":5,
             "delivery_type":"Free delivery",
-            "hidden_stars":3.5
+            "hidden_stars":3.6
         },
         {
             "item_id":120,
@@ -1679,7 +1679,7 @@
             "old_price":2499,
             "discount":30,
             "delivery_type":"Free delivery",
-            "hidden_stars":3.5
+            "hidden_stars":3.7
         },
         {
             "item_id":121,
@@ -1693,7 +1693,7 @@
             "old_price":1899,
             "discount":45,
             "delivery_type":"Free delivery",
-            "hidden_stars":3.5
+            "hidden_stars":3.8
         },
         {
             "item_id":122,
@@ -1707,7 +1707,7 @@
             "old_price":549,
             "discount":10,
             "delivery_type":"Free delivery",
-            "hidden_stars":3.5
+            "hidden_stars":3.9
         },
         {
             "item_id":123,
@@ -1721,7 +1721,7 @@
             "old_price":1599,
             "discount":30,
             "delivery_type":"Free delivery",
-            "hidden_stars":3.5
+            "hidden_stars":4.0
         },
         {
             "item_id":124,
@@ -1735,7 +1735,7 @@
             "old_price":1699,
             "discount":30,
             "delivery_type":"Free delivery",
-            "hidden_stars":3.5
+            "hidden_stars":4.0
         },
         {
             "item_id":125,
@@ -1749,7 +1749,7 @@
             "old_price":1399,
             "discount":50,
             "delivery_type":"Free delivery",
-            "hidden_stars":3.5
+            "hidden_stars":3.0
         },
         {
             "item_id":126,
@@ -1763,7 +1763,7 @@
             "old_price":1499,
             "discount":50,
             "delivery_type":"Free delivery",
-            "hidden_stars":3.5
+            "hidden_stars":3.0
         },
         {
             "item_id":127,
@@ -1777,7 +1777,7 @@
             "old_price":549,
             "discount":10,
             "delivery_type":"Free delivery",
-            "hidden_stars":3.5
+            "hidden_stars":5.0
         },
         {
             "item_id":128,
@@ -1791,7 +1791,7 @@
             "old_price":549,
             "discount":10,
             "delivery_type":"Free delivery",
-            "hidden_stars":3.5
+            "hidden_stars":5.0
         },
         {
             "item_id":129,
@@ -1805,7 +1805,7 @@
             "old_price":1699,
             "discount":10,
             "delivery_type":"Free delivery",
-            "hidden_stars":3.5
+            "hidden_stars":5.0
         },
         {
             "item_id":130,
@@ -1819,7 +1819,7 @@
             "old_price":1799,
             "discount":5,
             "delivery_type":"Free delivery",
-            "hidden_stars":3.5
+            "hidden_stars":5.0
         },
         {
         "item_id": 131,
@@ -1861,7 +1861,7 @@
         "old_price": 949,
         "discount": 45,
         "delivery_type": "Free delivery",
-        "hidden_stars": 3.5
+        "hidden_stars": 3.6
       },
       {
         "item_id": 134,
@@ -1875,7 +1875,7 @@
         "old_price": 549,
         "discount": 30,
         "delivery_type": "Free delivery",
-        "hidden_stars": 3.5
+        "hidden_stars": 3.7
       },
       {
         "item_id": 135,
@@ -1889,7 +1889,7 @@
         "old_price": 1499,
         "discount": 30,
         "delivery_type": "Free delivery",
-        "hidden_stars": 3.5
+        "hidden_stars": 3.8
       },
       {
         "item_id": 136,
@@ -1903,7 +1903,7 @@
         "old_price": 1299,
         "discount": 20,
         "delivery_type": "Free delivery",
-        "hidden_stars": 3.5
+        "hidden_stars": 3.9
       },
       {
         "item_id": 137,
@@ -1917,7 +1917,7 @@
         "old_price": 1299,
         "discount": 20,
         "delivery_type": "Free delivery",
-        "hidden_stars": 3.5
+        "hidden_stars": 3.9
       },
       {
         "item_id": 138,
@@ -1931,7 +1931,7 @@
         "old_price": 599,
         "discount": 58,
         "delivery_type": "Free delivery",
-        "hidden_stars": 3.5
+        "hidden_stars": 3.9
       },
       {
         "item_id": 139,
@@ -1945,7 +1945,7 @@
         "old_price": 499,
         "discount": 30,
         "delivery_type": "Free delivery",
-        "hidden_stars": 3.5
+        "hidden_stars": 3.0
       },
       {
         "item_id": 140,
@@ -1959,7 +1959,7 @@
         "old_price": 699,
         "discount": 20,
         "delivery_type": "Free delivery",
-        "hidden_stars": 3.5
+        "hidden_stars": 3.0
       },
       {
         "item_id": 141,
@@ -1973,7 +1973,7 @@
         "old_price": 549,
         "discount": 30,
         "delivery_type": "Free delivery",
-        "hidden_stars": 3.5
+        "hidden_stars": 3.0
       },
       {
         "item_id": 142,
@@ -1987,7 +1987,7 @@
         "old_price": 599,
         "discount": 30,
         "delivery_type": "Free delivery",
-        "hidden_stars": 3.5
+        "hidden_stars": 2.0
       },
       {
         "item_id": 143,
@@ -2001,7 +2001,7 @@
         "old_price": 549,
         "discount": 30,
         "delivery_type": "Free delivery",
-        "hidden_stars": 3.5
+        "hidden_stars": 2.1
       },
       {
         "item_id": 144,
@@ -2015,7 +2015,7 @@
         "old_price": 549,
         "discount": 30,
         "delivery_type": "Free delivery",
-        "hidden_stars": 3.5
+        "hidden_stars": 2.2
       },
       {
         "item_id": 145,
@@ -2029,7 +2029,7 @@
         "old_price": 699,
         "discount": 30,
         "delivery_type": "Free delivery",
-        "hidden_stars": 3.5
+        "hidden_stars": 2.3
       },
       {
         "item_id": 146,
@@ -2043,7 +2043,7 @@
         "old_price": 699,
         "discount": 30,
         "delivery_type": "Free delivery",
-        "hidden_stars": 3.5
+        "hidden_stars": 2.4
       },
       {
         "item_id": 147,
@@ -2057,7 +2057,7 @@
         "old_price": 699,
         "discount": 30,
         "delivery_type": "Free delivery",
-        "hidden_stars": 3.5
+        "hidden_stars": 2.5
       },
       {
         "item_id": 148,
@@ -2071,7 +2071,7 @@
         "old_price": 349,
         "discount": 30,
         "delivery_type": "Free delivery",
-        "hidden_stars": 3.5
+        "hidden_stars": 2.6
       },
       {
         "item_id": 149,
@@ -2085,7 +2085,7 @@
         "old_price": 599,
         "discount": 30,
         "delivery_type": "Free delivery",
-        "hidden_stars": 3.5
+        "hidden_stars": 2.7
       },
       {
         "item_id": 150,
@@ -2099,6 +2099,6 @@
         "old_price": 699,
         "discount": 30,
         "delivery_type": "Free delivery",
-        "hidden_stars": 3.5
+        "hidden_stars": 2.8
       }
 ]
